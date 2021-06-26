@@ -1,0 +1,18 @@
+----Make a Pizza: Làm một cái bánh pizza
+	+ Name: tên
+	+ Dough: Bột
+	+ Sauce: nước sốt
+	+ Toppings
+		.Mushrooms: Nấm
+		.Onions: Hành
+		.Bacon: Thịt ba rọi
+----Pizza types: Các loại bánh pizza
+	+Cheese: phô mai
+	+Greek: Hy Lạp
+	+Pepperoni: Xúc xich hun khói
+----Processes: Quy trình
+	+ Select type: Lựa chọn đối tượng
+	+ Prepare: Chuẩn bị
+	+ Bake: Nướng
+	+ Cut: Cắt
+	+ Box: 	Cái hộp
